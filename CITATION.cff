@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or the derived data, please cite both this repository and the paper below."
-title: "Reanalysis of public cadmium-stress RNA-seq data in wheat (Triticum aestivum)"
+title: "Analysis of public cadmium-stress RNA-seq data in wheat (Triticum aestivum)"
 abstract: >-
   Data and code to reproduce the transcriptome analysis of NCBI BioProject PRJNA1124581
   (wild-type wheat roots and shoots, cadmium versus control) reported in Haris et al.:
@@ -50,9 +50,9 @@ references:
         given-names: J.
       - family-names: Zhu
         given-names: B.
-    journal: "Plant Physiology and Biochemistry"
+    journal: "not published yet"
     volume: 223
     start: 109879
     year: 2025
-    doi: 10.1016/j.plaphy.2025.109879
-    notes: "Source of the RNA-seq data reanalysed here (NCBI BioProject PRJNA1124581)."
+    doi:
+    notes: "Source of the RNA-seq data reanalyzed here (NCBI BioProject PRJNA1124581)."
