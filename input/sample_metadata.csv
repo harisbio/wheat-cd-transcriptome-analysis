@@ -1,0 +1,13 @@
+run,sample_title,tissue,genotype,condition,replicate
+SRR29482938,CK-WT-S1,Shoot,wild type,Control,1
+SRR29482939,CK-WT-R3,Root,wild type,Control,3
+SRR29482940,CK-WT-R2,Root,wild type,Control,2
+SRR29482941,CK-WT-R1,Root,wild type,Control,1
+SRR29482945,T-WT-S3,Shoot,wild type,Cd,3
+SRR29482946,T-WT-S2,Shoot,wild type,Cd,2
+SRR29482947,T-WT-S1,Shoot,wild type,Cd,1
+SRR29482948,T-WT-R3,Root,wild type,Cd,3
+SRR29482950,T-WT-R2,Root,wild type,Cd,2
+SRR29482951,T-WT-R1,Root,wild type,Cd,1
+SRR29482958,CK-WT-S3,Shoot,wild type,Control,3
+SRR29482959,CK-WT-S2,Shoot,wild type,Control,2

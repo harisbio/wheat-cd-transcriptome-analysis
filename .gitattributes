@@ -1,0 +1,16 @@
+# Keep data files byte-identical across platforms: no line-ending conversion.
+# Several scripts read these with read.delim/read.csv, and CRLF injection on a
+# Windows checkout can leave stray \r at the end of the last field.
+*.tsv   -text
+*.csv   -text
+*.txt   -text
+*.json  -text
+
+# Compressed and binary payloads
+*.gz    binary
+
+# Source files may be normalised to LF in the repository
+*.R     text eol=lf
+*.py    text eol=lf
+*.md    text eol=lf
+*.cff   text eol=lf

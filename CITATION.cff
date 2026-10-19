@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this code or the derived data, please cite both this repository and the paper below."
+title: "Reanalysis of public cadmium-stress RNA-seq data in wheat (Triticum aestivum)"
+abstract: >-
+  Data and code to reproduce the transcriptome analysis of NCBI BioProject PRJNA1124581
+  (wild-type wheat roots and shoots, cadmium versus control) reported in Haris et al.:
+  DESeq2 differential expression, GO and KEGG enrichment, functional gene groups, and
+  STRING protein-protein interaction networks with Maximal Clique Centrality hub ranking.
+type: software
+license: MIT
+authors:
+  - family-names: Haris
+    given-names: Muhammad
+    affiliation: "Department of Bioinformatics and Biotechnology, Government College University Faisalabad, Pakistan"
+    email: mharis.202101862@gcuf.edu.pk
+  - family-names: Batool
+    given-names: Fatima
+    affiliation: "Department of Environmental Sciences, Government College University Faisalabad, Pakistan"
+  - family-names: Hussain
+    given-names: Sabir
+    affiliation: "Department of Environmental Sciences, Government College University Faisalabad, Pakistan"
+  - family-names: Fatima
+    given-names: Ishmal
+    affiliation: "Department of Biotechnology, Riphah International University Faisalabad, Pakistan"
+  - family-names: Nawaz
+    given-names: Mohsin Ali
+    affiliation: "Soil and Environmental Biotechnology Division, NIBGE-C, PIEAS, Faisalabad, Pakistan"
+  - family-names: Mazhar
+    given-names: Ayesha
+    affiliation: "Department of Bioinformatics and Biotechnology, Government College University Faisalabad, Pakistan"
+  - family-names: Azeem
+    given-names: Farrukh
+    affiliation: "Department of Bioinformatics and Biotechnology, Government College University Faisalabad, Pakistan"
+    email: farrukh@gcuf.edu.pk
+keywords:
+  - wheat
+  - Triticum aestivum
+  - cadmium
+  - RNA-seq
+  - differential expression
+  - protein-protein interaction
+  - reanalysis
+references:
+  - type: article
+    title: "Mutation of TaNRAMP5 impacts cadmium transport in wheat"
+    authors:
+      - family-names: Cheng
+        given-names: Z.
+      - family-names: Wei
+        given-names: J.
+      - family-names: Zhu
+        given-names: B.
+    journal: "Plant Physiology and Biochemistry"
+    volume: 223
+    start: 109879
+    year: 2025
+    doi: 10.1016/j.plaphy.2025.109879
+    notes: "Source of the RNA-seq data reanalysed here (NCBI BioProject PRJNA1124581)."
